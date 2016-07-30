@@ -1,4 +1,4 @@
-# shortcut for lists - [http://tex.stackexchange.com/questions/52769/automatically-itemize-a-paragraph](source)
+# shortcut for lists - [source](http://tex.stackexchange.com/questions/52769/automatically-itemize-a-paragraph)
 
 ```
 \documentclass{article}
