@@ -1,6 +1,6 @@
 # shortcut for lists - [source](http://tex.stackexchange.com/questions/52769/automatically-itemize-a-paragraph)
 
-```
+```{tex}
 \documentclass{article}
 
 \makeatletter
